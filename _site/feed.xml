@@ -5,7 +5,31 @@
     <atom:link href="http://www.domain.com/portfolio-kami/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://www.domain.com/portfolio-kami/</link>
     <description>A personal portfolio and blog website</description>
-    <pubDate>Sat, 16 Apr 2016 20:29:39 -0700</pubDate>
+    <pubDate>Sat, 16 Apr 2016 21:10:44 -0700</pubDate>
+    
+      <item>
+        <title>My First Blog Post</title>
+        <link>http://www.domain.com/portfolio-kami/2016/04/16/my-first-post.html</link>
+        <guid isPermaLink="true">http://www.domain.com/portfolio-kami/2016/04/16/my-first-post.html</guid>
+        <description>&lt;p&gt;I’m not too sure what to write on here. I don’t usually write blog posts, so this is a bit change for me. I’ll start with what got me into wanting to learn how to program. Back when I first got out of high school I opted to take classes at a private institution here in San Diego called Platt College. Platt was a graphic design, web development, and 3-D animation school. Platt was really a great school and I learned very much from my time there. Unfortunately the cost of staying at the school was just too much and I had to take my leave in 2013. Before I left Platt I was able to take a really great class with one of the best teachers I’ve ever had, Fred Winton. The class that I took was a simple HTML and CSS class to better familiarize myself on how a website functioned. After that class I changed my mind from being a 3-D animator to being a programmer. I joined my local community college as to not lose momentum on my studies and took as many classes as I could on how to program.&lt;/p&gt;
+
+&lt;p&gt;During my time at community college I took classes ranging from Java and C++ to introductory classes in Javascript and PHP web languages. Every class I took was such a joy and I really wanted to pursue a career in the field further, so I set off to find out different places that would meet my needs for a major. I eventually stumbled upon Bloc a couple months after my search and am currently enrolled in the software engineer track.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 16 Apr 2016 00:00:00 -0700</pubDate>
+      </item>
+    
+      <item>
+        <title>Experience at Bloc</title>
+        <link>http://www.domain.com/portfolio-kami/2016/04/16/experience-at-bloc.html</link>
+        <guid isPermaLink="true">http://www.domain.com/portfolio-kami/2016/04/16/experience-at-bloc.html</guid>
+        <description>&lt;p&gt;I first started my coursework at Bloc in the month of March and have been focusing on the Rails Web Development portion of the Software Engineering track that I signed up for. My mentor Mark Carpenter is a great joy to talk to. He’s very helpful and sends out tons of great resources once a week in a newsletter he creates.&lt;/p&gt;
+
+&lt;p&gt;When I first started at Bloc I had no real knowledge of how Ruby worked and I felt like I struggled to get the concepts down. When I really master one portion of the course and move onto another concept I always feel like I get to take on another challenge. Yes I think that learning these new concepts is on the hard side of things, but in the same breath I didn’t expect any of this to be easy. In honesty I like the challenge of figuring something new out. There are times I get too stuck and I’ll ask for help, but for the most part I try to look at every problem from different angles until I can come up with a viable solution.&lt;/p&gt;
+
+&lt;p&gt;So far my experience at Bloc has been very positive and I feel like I made a great decision starting to take classes here and I look forward to what challenges I will face further into the course.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 16 Apr 2016 00:00:00 -0700</pubDate>
+      </item>
     
       <item>
         <title>Sample post</title>
