@@ -10,7 +10,7 @@ theme:
 
   # Header and footer text
   header_text: >
-     <h1>Eager to Learn Rails Web Developer</h1>
+     <h1>Welcome to My Website!</h1>
      <p>I'm a beginning web developer learning Ruby on Rails.</p>
   header_text_feature_image:
   footer_text: >
