@@ -11,7 +11,7 @@ theme:
   # Header and footer text
   header_text: >
      <h1>Welcome to My Website!</h1>
-     <p>I'm a beginning web developer learning Ruby on Rails.</p>
+     <p>I'm a Junior Developer/ Graphic Designer</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a>.
